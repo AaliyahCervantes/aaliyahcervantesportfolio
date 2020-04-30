@@ -1,0 +1,84 @@
+
+body {background-color:#C799ED } 
+body{font-family: 'Bebas Neue'} 
+
+
+
+
+ul {
+  font-size: 15px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #C799ED ;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+#title {
+color: white; 
+text-align: center;
+font-size: 70px; }
+
+#image1 { width: 100px;
+position: relative;
+left: 340px; 
+bottom: 160px;}
+#image2 { width: 100px;
+position: relative;
+left: 540px;
+bottom: 160px;
+}
+p {
+  color: white;
+}
+
+
+.flexbox-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.flexbox-item{
+    margin:50px;
+    border: 3px 
+}
+.flexbox-item-1{
+    width: 50px; 
+}
+.flexbox-item-2{  }
+
+.flexbox-item-3{  }
+
+.flexbox-item-4{  }
+
+.flexbox-item-5{  }
+.flexbox-item-6{  }
+.flexbox-item-7{  }
+.flexbox-item-8{  }
+.flexbox-item-9{  }
+.flexbox-item-10{  }
+
+
+
+
+
+
+
+

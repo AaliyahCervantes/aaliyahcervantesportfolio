@@ -1,0 +1,55 @@
+
+body {background-color:#A7E9E5 } 
+body{font-family: 'Bebas Neue'} 
+
+
+
+
+ul {
+  font-size: 15px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#A7E9E5 ;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+p { color: white;
+text-align: center;
+font-size: 70px; }
+
+#artiststatement { color: white;
+font-size: 20px;
+line-height: 1.8;
+padding-left: 35px;
+padding-right: 35px;
+position: relative;
+bottom: 140px;
+ }
+
+
+
+#image1 { width: 100px;
+position: relative;
+left: 280px; 
+bottom: 170px;}
+
+#image2 { width: 100px;
+position: relative;
+left: 600px;
+bottom: 170px; }
